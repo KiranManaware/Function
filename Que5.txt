@@ -1,0 +1,17 @@
+Q5: The minimum number of functions present in any C++ program is:
+0
+1
+2
+Infinite
+ans = 1
+
+
+Q6: State True and False:
+A function may be called more than once from any other function 
+ans = true
+It is necessary for a function to return some value.
+ans = false
+
+Q7: Explore:
+Can the same function name be used for different functions without any conflict?
+ans = yes
